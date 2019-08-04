@@ -1,2 +1,7 @@
 hello git
+<<<<<<< HEAD
 hello universe
+||||||| merged common ancestors
+=======
+hello github
+>>>>>>> 76bbde8fb5ee7672d28a240b534b4cb331d0c035
